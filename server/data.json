@@ -4,7 +4,7 @@
     "alias": "les-enfants-terribles-montréal-5",
     "name": "Les Enfants Terribles",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CReOw8_eCmRbPCsJcR4b-A/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/les-enfants-terribles-montr%C3%A9al-5?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 181,
     "categories": "restaurants",
@@ -24,14 +24,18 @@
       ]
     },
     "phone": "+15145448884",
-    "display_phone": "+1 514-544-8884"
+    "display_phone": "+1 514-544-8884",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "LxiwqfN59A1pDdYd7NyJQQ",
     "alias": "biirū-montréal",
     "name": "Biirū",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vsAemT_xCbplV-TEAH6R8A/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/biir%C5%AB-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 176,
     "categories": "restaurants",
@@ -51,7 +55,11 @@
       ]
     },
     "phone": "+15149031555",
-    "display_phone": "+1 514-903-1555"
+    "display_phone": "+1 514-903-1555",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
 
   {
@@ -59,7 +67,7 @@
     "alias": "la-habanera-montréal-2",
     "name": "La Habanera",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MghtBFoyYDZvtaFi6H5OFw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/la-habanera-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 86,
     "category": "restaurants",
@@ -74,14 +82,18 @@
       "display_address": ["1216 Avenue Union", "Montreal, QC H3B 3C4", "Canada"]
     },
     "phone": "+15143755355",
-    "display_phone": "+1 514-375-5355"
+    "display_phone": "+1 514-375-5355",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "k2a0B5nlT3V9zzVrpgcGeQ",
     "alias": "bar-george-montréal",
     "name": "Bar George",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RiG190mNlFuSsuvaJYLh7w/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/bar-george-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 157,
     "categories": "bistros & bars",
@@ -97,14 +109,18 @@
       "display_address": ["1440 Rue Drummond", "Montreal, QC H3G 1V9", "Canada"]
     },
     "phone": "+15146699243",
-    "display_phone": "+1 514-669-9243"
+    "display_phone": "+1 514-669-9243",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "XqJG7Ux_mMfMJnyG2Q4m2Q",
     "alias": "albert-bistro-montréal",
     "name": "Albert Bistro",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DpszOlDAU39cHMIwXiYwxA/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/albert-bistro-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 26,
     "categories": "bistros & bars",
@@ -124,14 +140,18 @@
       ]
     },
     "phone": "+15144390665",
-    "display_phone": "+1 514-439-0665"
+    "display_phone": "+1 514-439-0665",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "9KeJfn7-6DFfUFoZLu_DNQ",
     "alias": "escondite-montréal",
     "name": "Escondite",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eo8IW2ocmfib7hBSrDsghg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/escondite-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 226,
     "categories": "bistros & bars",
@@ -147,14 +167,18 @@
       "display_address": ["1206 Avenue Union", "Montreal, QC H3B 3A7", "Canada"]
     },
     "phone": "+15144199755",
-    "display_phone": "+1 514-419-9755"
+    "display_phone": "+1 514-419-9755",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "pkO54EbPl6E57Q0yu2XYRA",
     "alias": "cafe-myriade-montréal-2",
     "name": "Cafe Myriade",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j72cYQ7nGsqnuONPIfh-6A/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/cafe-myriade-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 199,
     "categories": "coffee shops",
@@ -170,14 +194,18 @@
       "display_address": ["1432 Rue Mackay", "Montreal, QC H3G 2H7", "Canada"]
     },
     "phone": "+15149391717",
-    "display_phone": "+1 514-939-1717"
+    "display_phone": "+1 514-939-1717",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "qJxHW6LWtGWcErnL56GcmA",
     "alias": "café-castel-montréal-3",
     "name": "Café Castel",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KEmpIRecFzZI2nXNgdYngw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/caf%C3%A9-castel-montr%C3%A9al-3?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 51,
     "categories": "coffee shops",
@@ -197,14 +225,18 @@
       ]
     },
     "phone": "+15142856514",
-    "display_phone": "+1 514-285-6514"
+    "display_phone": "+1 514-285-6514",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 3,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "3 goodboi per hooman"
   },
   {
     "id": "1e7hOSI9GEE-dTxIcA3c0Q",
     "alias": "pikolo-montréal-2",
     "name": "Pikolo",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c_Zrdv9W2dRj_WNErU-Szg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/pikolo-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 289,
     "categories": "coffee shops",
@@ -224,14 +256,18 @@
       ]
     },
     "phone": "+15145086800",
-    "display_phone": "+1 514-508-6800"
+    "display_phone": "+1 514-508-6800",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "VZl29j0EMaXP_RLf78sR9Q",
     "alias": "tommy-montréal-2",
     "name": "Tommy",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FQuykoDd9HtsuJrZrGK77g/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/tommy-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 255,
     "categories": "coffee shops",
@@ -251,14 +287,18 @@
       ]
     },
     "phone": "+15149038669",
-    "display_phone": "+1 514-903-8669"
+    "display_phone": "+1 514-903-8669",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 3,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "3 goodboi per hooman"
   },
   {
     "id": "ECOb4WKtohD0T_WDpS2EZw",
     "alias": "nous-sommes-café-montréal-2",
     "name": "Nous Sommes Café",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrvoaM8h_Qe8cjNBzo_a0Q/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/nous-sommes-caf%C3%A9-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 20,
     "categories": "coffee shops",
@@ -278,14 +318,18 @@
       ]
     },
     "phone": "+15149852888",
-    "display_phone": "+1 514-985-2888"
+    "display_phone": "+1 514-985-2888",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "UlsS5bqEXvtFBLhaQdX9Ww",
     "alias": "second-cup-montréal-51",
     "name": "Second Cup",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hDIqhSFTJYgpW2_gEm9vfg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/second-cup-montr%C3%A9al-51?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 13,
     "categories": "coffee shops",
@@ -305,14 +349,18 @@
       ]
     },
     "phone": "+15148424040",
-    "display_phone": "+1 514-842-4040"
+    "display_phone": "+1 514-842-4040",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "uxoKlM2T1CeZL-95Qm2aNA",
     "alias": "my-little-cup-montréal",
     "name": "My Little Cup",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G9cY6o3digqrf4RO23kw4A/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/my-little-cup-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 25,
     "categories": "coffee shops",
@@ -332,14 +380,18 @@
       ]
     },
     "phone": "+15146184987",
-    "display_phone": "+1 514-618-4987"
+    "display_phone": "+1 514-618-4987",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 3,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "SGpCV9O5teB-we8XNNlGHQ",
     "alias": "café-olimpico-montréal-2",
     "name": "Café Olimpico",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xF4s0azaAut3bDotPYAyJQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/caf%C3%A9-olimpico-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 257,
     "categories": "coffee shops",
@@ -359,14 +411,18 @@
       ]
     },
     "phone": "+15144950746",
-    "display_phone": "+1 514-495-0746"
+    "display_phone": "+1 514-495-0746",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "efgSk376dNCrhgd7zAt3jA",
     "alias": "milton-b-montréal",
     "name": "Milton B",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xAduEGUgIWKqHIJIJpBhXg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/milton-b-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 30,
     "categories": "coffee shops",
@@ -386,14 +442,18 @@
       ]
     },
     "phone": "+15143791001",
-    "display_phone": "+1 514-379-1001"
+    "display_phone": "+1 514-379-1001",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "BK6MSKaYudySHt-QF9KQ5A",
     "alias": "atelier-d-alfred-montréal-2",
     "name": "Atelier d'Alfred",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o_7NzGg-RgQDDeQMHClArA/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/atelier-d-alfred-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 4,
     "categories": "hairdressers",
@@ -413,14 +473,18 @@
       ]
     },
     "phone": "+14387972472",
-    "display_phone": "+1 438-797-2472"
+    "display_phone": "+1 438-797-2472",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "FI6unFKdl3Y9reDcddpNMQ",
     "alias": "notorious-montreal-montréal",
     "name": "Notorious Montreal",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9NK98q5N5Qvv1Pgw7--bgw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/notorious-montreal-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 8,
     "categories": "hairdressers",
@@ -440,14 +504,18 @@
       ]
     },
     "phone": "+15145076974",
-    "display_phone": "+1 514-507-6974"
+    "display_phone": "+1 514-507-6974",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "3myjLbd7ggEVwO9TYI5Tqw",
     "alias": "figaro-montréal",
     "name": "Figaro",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3EURoZtZMGx3rhjxcUCTdg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/figaro-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 5,
     "categories": "hairdressers",
@@ -467,14 +535,18 @@
       ]
     },
     "phone": "+15142278757",
-    "display_phone": "+1 514-227-8757"
+    "display_phone": "+1 514-227-8757",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "N8n_6SyhRN_ebAFkkUfPQg",
     "alias": "piranha-bar-montréal",
     "name": "Piranha Bar",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jtuMhq7tr3Cg2OQVZSZiQQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/piranha-bar-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 19,
     "categories": "bistros & bars",
@@ -494,14 +566,18 @@
       ]
     },
     "phone": "+15145082116",
-    "display_phone": "+1 514-508-2116"
+    "display_phone": "+1 514-508-2116",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "EQCd_CUFrK_gSARL7s01fw",
     "alias": "la-distillerie-no-1-montréal-7",
     "name": "La Distillerie No.1",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/befytvSNbw4fwRrwEDgQCw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/la-distillerie-no-1-montr%C3%A9al-7?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 298,
     "categories": "bistros & bars",
@@ -517,14 +593,18 @@
       "display_address": ["300 Rue Ontario E", "Montreal, QC H2X 1H6", "Canada"]
     },
     "phone": "+15144482461",
-    "display_phone": "+1 514-448-2461"
+    "display_phone": "+1 514-448-2461",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "yg0fwJoTyQOYYYKmwTSk7w",
     "alias": "terrasse-place-d-armes-montréal-2",
     "name": "Terrasse Place d'Armes",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KVOU4dFVpg2foX9vI3NZRA/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/terrasse-place-d-armes-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 57,
     "categories": "bistros & bars",
@@ -545,14 +625,18 @@
       ]
     },
     "phone": "+15149041201",
-    "display_phone": "+1 514-904-1201"
+    "display_phone": "+1 514-904-1201",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "BReKNnKFYRld2decRXM4Og",
     "alias": "les-foufounes-electriques-montréal-4",
     "name": "Les Foufounes Electriques",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uKCeMaZEO735-S7mDvQrhg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/les-foufounes-electriques-montr%C3%A9al-4?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 76,
     "categories": "bistros & bars",
@@ -572,14 +656,18 @@
       ]
     },
     "phone": "+15148445539",
-    "display_phone": "+1 514-844-5539"
+    "display_phone": "+1 514-844-5539",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 2,
+    "transport": "Leash",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "g0pdNvWrzZjsNZktWYorzw",
     "alias": "concession-volkswagen-centre-ville-montréal",
     "name": "Concession Volkswagen - Centre-Ville",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Mwcxqe9TFM_K9Of4n96VQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/concession-volkswagen-centre-ville-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 1,
     "categories": "cars",
@@ -595,14 +683,18 @@
       "display_address": ["324 Rue Peel", "Montreal, QC H3C 2G8", "Canada"]
     },
     "phone": "+15148461717",
-    "display_phone": "+1 514-846-1717"
+    "display_phone": "+1 514-846-1717",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "Z_k_3yA7c24lIVhg9C1QNg",
     "alias": "toyota-chassé-montréal",
     "name": "Toyota Chassé",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G-_jrzONSz9d0ppcS2rw2w/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/toyota-chass%C3%A9-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 4,
     "categories": "cars",
@@ -618,14 +710,18 @@
       "display_address": ["819 Rue Rachel E", "Montreal, QC H2J 2H7", "Canada"]
     },
     "phone": "+15145273411",
-    "display_phone": "+1 514-527-3411"
+    "display_phone": "+1 514-527-3411",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "yZ2IemQ3U-HjQ99TK9MMVA",
     "alias": "ford-lincoln-gabriel-montréal-2",
     "name": "Ford Lincoln Gabriel",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dOjLZeXQSwFgthDepbAEKQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/ford-lincoln-gabriel-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 4,
     "categories": "cars",
@@ -645,14 +741,18 @@
       ]
     },
     "phone": "+15144877777",
-    "display_phone": "+1 514-487-7777"
+    "display_phone": "+1 514-487-7777",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 3,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "3 goodboi per hooman"
   },
   {
     "id": "i11KlN-2alBzLKXX5sfyow",
     "alias": "subaru-montréal-montréal",
     "name": "Subaru Montréal",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oLOPHgnfcy_7jW15N-68Pw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/subaru-montr%C3%A9al-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 6,
     "categories": "cars",
@@ -668,14 +768,18 @@
       "display_address": ["4900 rue Paré", "Montreal, QC H4P 2B2", "Canada"]
     },
     "phone": "+15147371880",
-    "display_phone": "+1 514-737-1880"
+    "display_phone": "+1 514-737-1880",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 3,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "Qef-97MEmJURqdm8ughrYg",
     "alias": "parc-percy-walters-montréal-3",
     "name": "Parc Percy-Walters",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4IrhTPUOw7p23d-ie9zctg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-percy-walters-montr%C3%A9al-3?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 5,
     "categories": "parks",
@@ -695,14 +799,18 @@
       ]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "FBDJ2EdcNLTFmQdK5TudcQ",
     "alias": "parc-la-fontaine-montréal-2",
     "name": "Parc la Fontaine",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5UAbNn3rhIlb34U-z6LSjQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-la-fontaine-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 48,
     "categories": "parks",
@@ -718,14 +826,18 @@
       "display_address": ["Montreal, QC H2L 0C7", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "EJ1POxmwn0qv3FcJIBgOkg",
     "alias": "parc-notre-dame-de-grâce-montréal-2",
     "name": "Parc Notre-Dame-de-Grâce",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kZNr_xPkqo7RQKYz-Z8VGw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-notre-dame-de-gr%C3%A2ce-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 2,
     "categories": "parks",
@@ -746,14 +858,18 @@
       ]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "ctNVGh_5lE6oiu3GQhmd3Q",
     "alias": "square-saint-louis-montréal-2",
     "name": "Square Saint-Louis",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DlUvRpV_8qDBJJNnaJkExA/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/square-saint-louis-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 23,
     "categories": "parks",
@@ -769,14 +885,18 @@
       "display_address": ["Rue Saint-Denis", "Montreal, QC H2X 3L1", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "mWLqPts4kWK7-yRtQqOTJQ",
     "alias": "parc-sir-wilfrid-laurier-montréal",
     "name": "Parc Sir-Wilfrid-Laurier",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MZbfEVFcIosJqbvZY03r5g/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-sir-wilfrid-laurier-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 18,
     "categories": "parks",
@@ -792,14 +912,18 @@
       "display_address": ["Avenue Laurier E", "Montreal, QC H2J 1G8", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "BYnmPgDK8QD5VTeUodQoZA",
     "alias": "parc-du-mont-royal-montréal-3",
     "name": "Parc du Mont-Royal",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v3oS3n52eMfcL_1y_1eSDg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-du-mont-royal-montr%C3%A9al-3?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 352,
     "categories": "parks",
@@ -819,14 +943,18 @@
       ]
     },
     "phone": "+15148438240",
-    "display_phone": "+1 514-843-8240"
+    "display_phone": "+1 514-843-8240",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "EsnNN8z_p7zmkCyqjfMG6g",
     "alias": "parc-leroux-lasalle",
     "name": "Parc Leroux",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f1z66Clp-x4zcdgAS0v-ew/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-leroux-lasalle?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 1,
     "categories": "parks",
@@ -842,14 +970,18 @@
       "display_address": ["7540 rue Centrale", "LaSalle, QC H8P 1K3", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "xcHUhWgOZBjC3NC-_igYhQ",
     "alias": "parc-champion-verdun",
     "name": "Parc Champion",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fiFMUOiE_i_LySBROwkDog/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-champion-verdun?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 1,
     "categories": "parks",
@@ -869,14 +1001,18 @@
       ]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "4PZpvhk1jYBOa2bC8D89zg",
     "alias": "parc-du-quai-de-la-tortue-montréal",
     "name": "Parc du Quai-de-la Tortue",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RkwL-p11KoWn9sjdDgWudQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-du-quai-de-la-tortue-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 2,
     "categories": "parks",
@@ -892,14 +1028,18 @@
       "display_address": ["Boulevard LaSalle", "Montreal, QC H4H 2S9", "Canada"]
     },
     "phone": "+15147657282",
-    "display_phone": "+1 514-765-7282"
+    "display_phone": "+1 514-765-7282",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "mqxddLiYeUp7IM9wHhUF-w",
     "alias": "place-émilie-gamelin-montréal",
     "name": "Place Émilie-Gamelin",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ua5ugyY0qFJ7kzkxPj-gRw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/place-%C3%A9milie-gamelin-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 17,
     "categories": "parks",
@@ -915,14 +1055,18 @@
       "display_address": ["Rue Berri", "Montreal, QC H2L", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "uYcKN4P7C644e5Ficdh4xA",
     "alias": "parc-desmarchais-montréal",
     "name": "Parc Desmarchais",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8KCEdNvipBp8Gj2avcZPHQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-desmarchais-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 3,
     "categories": "parks",
@@ -942,14 +1086,18 @@
       ]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "m7t5v8KhTBQ4EzG-cYw_pg",
     "alias": "parc-de-l-honorable-george-o-reilly-montréal",
     "name": "Parc de l'Honorable-George-O'Reilly",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KNhb4bM3FtcfR9y8PwHofw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-de-l-honorable-george-o-reilly-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 4,
     "categories": "parks",
@@ -969,14 +1117,18 @@
       ]
     },
     "phone": "+15148720311",
-    "display_phone": "+1 514-872-0311"
+    "display_phone": "+1 514-872-0311",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "RsEmBcPXPJOP9SlAMnVrYw",
     "alias": "parc-morgan-montréal",
     "name": "Parc Morgan",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-XPBQ_353lryvlzdXESLig/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-morgan-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 2,
     "categories": "parks",
@@ -992,14 +1144,18 @@
       "display_address": ["Rue Gaboury", "Montreal, QC H1V 2L7", "Canada"]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "TWw3G1eZQ0rPbvJ-tp8NZA",
     "alias": "parc-de-la-savane-montréal",
     "name": "Parc de la Savane",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VbU-Ev30sWpU01ymOYPAzg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/parc-de-la-savane-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 1,
     "categories": "parks",
@@ -1019,14 +1175,18 @@
       ]
     },
     "phone": "",
-    "display_phone": ""
+    "display_phone": "",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": "The sky is the limit",
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "As much as you can!"
   },
   {
     "id": "LeQh-JgbLeIJ_2VO4Hy1ww",
     "alias": "brandy-melville-montréal",
     "name": "Brandy Melville",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2pzuO2cP-IYk2_mZGR73LQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/brandy-melville-montr%C3%A9al?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 11,
     "categories": "fashion",
@@ -1047,14 +1207,18 @@
       ]
     },
     "phone": "+15143941113",
-    "display_phone": "+1 514-394-1113"
+    "display_phone": "+1 514-394-1113",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "3WfpEW2QpLhWsXVd8p3ImA",
     "alias": "off-the-hook-montréal-2",
     "name": "Off the Hook",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CEmBDRXQZN09uYMuDN5rpw/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/off-the-hook-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 16,
     "categories": "fashion",
@@ -1074,14 +1238,18 @@
       ]
     },
     "phone": "+15144991021",
-    "display_phone": "+1 514-499-1021"
+    "display_phone": "+1 514-499-1021",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "5n6OWcHfKYXuauFbV_4X5w",
     "alias": "gucci-at-holt-montreal-3",
     "name": "Gucci at Holt",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cD2lr5A79-AaEbJypNQJeQ/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/gucci-at-holt-montreal-3?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 1,
     "categories": "fashion",
@@ -1101,20 +1269,24 @@
       ]
     },
     "phone": "+15148425111",
-    "display_phone": "+1 514-842-5111"
+    "display_phone": "+1 514-842-5111",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "hZKBaGrcVs4__E-Lr7T39A",
     "alias": "ssense-montréal-2",
     "name": "SSENSE",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0taP2taxtUL7eUzUkbI0Fg/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/ssense-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 125,
     "categories": "fashion",
     "rating": 2.5,
     "location": {
-      "address1": "418 Rue Saint-Sulpic",
+      "address1": "418 Rue Saint-Sulpice",
       "address2": null,
       "address3": "",
       "city": "Montreal",
@@ -1128,14 +1300,18 @@
       ]
     },
     "phone": "+15142891906",
-    "display_phone": "+1 514-289-1906"
+    "display_phone": "+1 514-289-1906",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs) - Biggerboi(40lbs +)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate - Backpack",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "ju7a3QcqzfH3l4F_VkR29g",
     "alias": "l-atelier-montréal-5",
     "name": "L'Atelier",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/va4G0kSfGiFMILWJwcVQ8Q/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/l-atelier-montr%C3%A9al-5?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 7,
     "categories": "hairdressers",
@@ -1155,14 +1331,18 @@
       ]
     },
     "phone": "+15145048061",
-    "display_phone": "+1 514-504-8061"
+    "display_phone": "+1 514-504-8061",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 2,
+    "transport": "Leash - Transport Crate",
+    "ratio": "2 goodboi per hooman"
   },
   {
     "id": "_06vXlDM74qctRmGEhbK7Q",
     "alias": "nü-salon-montréal-2",
     "name": "NÜ Salon",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1jCLFgT6U0ajtCtRF1YlEA/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/n%C3%BC-salon-montr%C3%A9al-2?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 28,
     "categories": "hairdressers",
@@ -1183,14 +1363,18 @@
       ]
     },
     "phone": "+15145082380",
-    "display_phone": "+1 514-508-2380"
+    "display_phone": "+1 514-508-2380",
+    "size_allowed": "Smallboi(1-15lbs) - Bigboi(15-40lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate ",
+    "ratio": "1 goodboi per hooman"
   },
   {
     "id": "ng_CnSlvvdFBOeBXNX6nFA",
     "alias": "salon-adikt-montréal-6",
     "name": "Salon Adikt",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/touIER30OdHv6SNvUY8O2g/o.jpg",
-    "is_closed": false,
+    "is_closed": "No",
     "url": "https://www.yelp.com/biz/salon-adikt-montr%C3%A9al-6?adjust_creative=7Z6DiOxUtQsK5txD1jb2EQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=7Z6DiOxUtQsK5txD1jb2EQ",
     "review_count": 24,
     "categories": "hairdressers",
@@ -1206,6 +1390,10 @@
       "display_address": ["397 Rue Mayor", "Montreal, QC H3A 1N9", "Canada"]
     },
     "phone": "+15148781888",
-    "display_phone": "+1 514-878-1888"
+    "display_phone": "+1 514-878-1888",
+    "size_allowed": "Smallboi(1-15lbs)",
+    "max_allowed": 1,
+    "transport": "Leash - Transport Crate",
+    "ratio": "1 goodboi per hooman"
   }
 ]
